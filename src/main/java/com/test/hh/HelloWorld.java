@@ -9,8 +9,10 @@ public class HelloWorld {
 
     public static void main(String[] args) {
 
+        //list
         var s2 = List.of("Hello", "World");
 
+        //相当于元祖
         var s3 = new ArrayList<>();
         s3.add("1");
         s3.add(2);

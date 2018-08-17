@@ -7,8 +7,6 @@ import java.util.Set;
 
 public class HelloWorld {
 
-
-
     public static void main(String[] args) {
 
         var s2 = List.of("Hello", "World");
